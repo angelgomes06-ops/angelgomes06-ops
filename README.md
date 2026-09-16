@@ -6,7 +6,7 @@ Profissional de Análise de Dados com sólida bagagem em gestão operacional, in
 
 <p align="left">
     <!-- Links de Redes e Estatísticas rápidas -->
-    <a href="https://www.linkedin.com/in/SEU-USER-LINKEDIN" target="_blank">
+    <a href="https://www.linkedin.com/in/angélica-da-silva-6694881b5" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://github.com/angelgomes06-ops?tab=repositories&sort=stargazers">
