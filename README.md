@@ -31,16 +31,3 @@ Profissional de Análise de Dados com sólida bagagem em gestão operacional, in
   <img alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 </p>
 <br clear="left"/>
-
----
-
-### 📊 Estatísticas
-
-<p align="center">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=angelgomes06-ops&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-</p>
-
-<p align="center">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelgomes06-ops&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" />
-</p>
-<br clear="left"/>
