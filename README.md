@@ -1,33 +1,64 @@
-# 👩🏻‍💻 Angélica da Silva 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,100:00e0ff&height=240§ion=header&text=Ang%C3%A9lica%20da%20Silva&fontSize=68&fontCo lor=ffffff&fontAlignY=38&fontStyle=bold&desc=Analista%20de%20Dados&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="Banner Angélica da Silva"/>
+</div>
 
-**`Analista de Dados`**
+👩🏻‍💻 Angélica da Silva
 
-Profissional de Análise de Dados com sólida bagagem em gestão operacional, inteligência de negócios e liderança de equipes. Combinando experiência real na tomada de decisões estratégicas e otimização de processos com uma formação técnica robusta, meu foco é transformar dados complexos em insights acionáveis e painéis interativos. 
+**Analista de Dados**
 
-<p align="left">
-    <!-- Links de Redes e Estatísticas rápidas -->
-    <a href="https://www.linkedin.com/in/angélica-da-silva-6694881b5" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://github.com/angelgomes06-ops?tab=repositories&sort=stargazers">
-        <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/angelgomes06-ops?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
-    </a>
-    <a href="https://github.com/angelgomes06-ops?tab=followers">
-        <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/angelgomes06-ops?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
-    </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angélica-da-silva-6694881b5) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:angelica.gomees06@gmail.com)
 
----
+![Open to work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20work-a855f7?style=flat-square) ![Jundiaí](https://img.shields.io/badge/Jundia%C3%AD-333?style=flat-square)
 
-### 🤖 Linguagens e Tecnologias
+### 👋 Sobre mim
 
-<p align="left">
-  <img alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img alt="Pandas" title="Pandas" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
-  <img alt="SQL" title="SQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  <img alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img alt="PowerBI" title="Power BI" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftexcel/microsoftexcel-original.svg" />
-  <img alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-</p>
-<br clear="left"/>
+Sou \*\*Analista de Dados\*\* em formação técnica pela \*\*Generation Brasil\*\*, unindo experiência em \*\*gestão operacional, liderança e BI\*\* à aplicação prática de \*\*SQL, Python, Excel e Power BI\*\*.
+
+Com histórico na criação de dashboards, acompanhamento de KPIs e otimização de processos focados no cliente, busco oportunidade como \*\*Analista de Dados (Júnior/Pleno)\*\* para converter dados em insights estratégicos e apoiar decisões de impacto.
+
+> Está construindo algo interessante? Vamos nos conectar: ​​https://www.linkedin.com/in/angélica-da-silva-6694881b5
+
+## Instantâneo
+
+- ⌖ **Localização** · Itupeva, SP
+- ⌗ **Experiência** · Analista de Dados Autônomo
+- ◎ **Educação** · Generation Brasil Análise de Dados · (julho de 2026 - outubro de 2026)
+- ⟳ **Aprendizado** · 🌱 No momento estou: 📊 Desenvolvendo dashboards interativos para solução de problemas de negócios. 🔍 Analisando e tratando bases de dados reais com SQL e Python. 🚀 Construindo projetos práticos focados em geração de insights e tomada de decisão.
+- ✦ **Curiosidade** · 💡 Curiosidade: Tenho um perfil analítico e operacional não me limito a extrair dados com Python e SQL, mas busco sempre entender como esses números se transformam em processos mais eficientes e soluções reais de negócios (inclusive criar apps sob medida quando necessário!).
+
+## Projetos em destaque
+
+- [Consumo kWh](https://🔗 Código: [https://lnkd.in/dZX3QfaV] 🌐 Dashboard: [https://lnkd.in/d5uU9CMm]) — Consumo de energia referente à utilização de uma scooter elétrica: Durante o projeto, utilizei análise exploratória, tratamento de dados e visualização para comparar o consumo antes e depois da aquisição.
+
+## Ferramentas que eu uso
+
+**Idiomas**
+
+<img src="https://skillicons.dev/icons?i=python,css,html&theme=dark" alt="Idiomas"/>
+
+**Backend e Bancos de Dados**
+
+<img src="https://skillicons.dev/icons?i=nodejs,mysql&theme=dark" alt="Backend e Bancos de Dados"/>
+
+**DevOps e Nuvem**
+
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="DevOps e Nuvem"/>
+
+**IA / ML**
+
+<img src="https://skillicons.dev/icons?i=pandas,numpy&theme=dark" alt="IA / ML"/>
+
+## Idiomas
+- 🇬🇧 **Inglês** · ![Conversacional](https://img.shields.io/badge/-Conversational-ff8c42?style=flat-square)
+
+## Sinais do GitHub
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=angelgomes06-ops&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas de Angélica da Silva"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelgomes06-ops&layout=compact&langs_count=8&theme=ocean_dark&hide_border=true" alt="Angélica da Silva top languages"/>
+
+<div align="center">
+
+<sub>[Abrir ReadmeForge](https://lebedevnet.github.io/ReadmeForge/) · [Entrar em contato](https://www.linkedin.com/in/angélica-da-silva-6694881b5)</sub>
+
+</div>
